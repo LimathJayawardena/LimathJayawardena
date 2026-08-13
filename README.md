@@ -12,11 +12,11 @@
   <a href="https://linkedin.com/in/limath-jayawardena-a1411b3b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  #x
+  <!-- x -->
   <a href="https://instagram.com/_iamlimath_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;
-  #threads
+  <!-- threads -->
 </p>
 
 </div>
